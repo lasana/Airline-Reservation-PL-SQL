@@ -1,6 +1,5 @@
 # Airline-Reservation-PL-SQL
-
-Final Project Guidelines
+Project Guidelines
                                                 
 Here are some of the basic procedures that are required for the project: 
 NOTE: for this project assume that all flights are direct and one way only.
